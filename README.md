@@ -1,2 +1,2 @@
 # trigger-test v1
-novo build
+novo build v1
