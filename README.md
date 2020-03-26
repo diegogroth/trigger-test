@@ -8,3 +8,4 @@ validado
 mandando bala
 ok
 foi o ultimo
+Commit
